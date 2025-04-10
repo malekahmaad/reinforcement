@@ -14,7 +14,10 @@ built a connect four game and an AI bot to play against, the AI bot is built usi
 -----------------------------------------------------------------------------------------------
 
 4- SOS: built a SOS game that has three modes:
+
     1- PLAYER VS PLAYER
+
     2- PLAYER VS AI: this bot is built using MCTS
+    
     3- PLAYER VS STRONG_AI: this bot is a powerful bot and built using PUCT
  
